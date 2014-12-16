@@ -12,3 +12,5 @@ The keywords and operators set are very small, but not necessarlily
 short and concise.
 Would love to hear from other MJ fans, whether this idea, is dumpshit, or can be improved!
 Keep loving!! 
+
+To run your mjlang program, type in 'python mjcompiler.py yourprogram.mj' in your bash shells.
