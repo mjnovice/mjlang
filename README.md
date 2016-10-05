@@ -1,3 +1,38 @@
+---::::----.............---......-..........---/NNdho+/++smdddmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+---::::--..........````............``.`````:-.-:ds``....-o/--::/sysdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+----::--.....`.````````.....````.``````````:```.yo`````.:```````s.-+dMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+----::--..-.``..```````.....````.``````````:```///``````    ````.o:.-ymNNMMMMMMMMMMMMMMMMMMMMMMMMMMM
+-.---:---...```````````......``````````````-```o/``````    ```````///y+yhdNMMMMMMMMMMMMMMMMMMMMMMMMM
+-.------...````````````.....```````````````.``-.:+.````   ````````-do:::+ooshssymMMMMMMMMMMMMMMMMMMM
+...-----...````````````.....``````````````.--.```.+```   ```````./ho::::-::oso://ddymMMMMMMMMMMMMMMM
+...-----...````````````....`````````````.:.`````-+-`.`    `````/o:`+s:-:::o/y+::+dyohNMMMMMMMMMMMMMM
+..------....``````````......````````````:.````//-`./+:``` ````-o----:++/+ooy+:/sdyoydNMMMMMMMMMMMMMM
+---::::--....`````````......`````````````-````..---+ddd+.`` ````.-:/oyshh++//hdo::+dmNMMMMMMMMMMMMMM
+--::::----...``````````....``````````````.--.`````.+oshds-```.:ohmNNNNNMMNNmmd/:--:+hNMMMMMMMMMMMMMM
+--:::::---.....```````......````````````````.:.`.:smmhhhy/``.-/ossssoshmysshmNyo/:+ss/dMMMMMMMMMMMMM
+----::::---......`````......`````````````````-.```.oh//+o. `-://oymmhddmdhyyssyysho:::/NMMMMMMMMMMMM
+...-----....``````````......``````````````````````..::-.` .://:-:+ydmohNMMMmho/::/---:+mNMMMMMMMMMMN
+---::---...........``.......```````````````````````      `:/::-.`..:ooyhdmds/-.....--:omMMMMMMmdmhys
+..------...........```.......``````````````````````    `.-----..`````.----..````...--:yNMMMNmhyys+os
+...---..............`........`````````````````````  ```..---...``    `` ````````...-:+mMMMdooyhyo//+
+...--..................--......`````````````````````.:::/:..---.``   `````````...--:/oNMMd//:+ysoso+
+...--..................--......``.`````````````````` ..:oo/-::-.```````.``....----::/oNMd++::+o+os+y
+...---.................--........```````````````...`````.......``````......-----::://+ymy+/+so+oosyN
+...---.................--.......`.....`````````........```.......```..---------:::::+oo+o++////+sdMM
+..-----................--.......`.....``...........:+o++///::-----....--:--------::/+o+oooy///ohMMMM
+..-----................--.......`.`........`....---...:////+osyyy+---------------:://+ooshNNMMMMMMMM
+..-----................--...................+ysydmm..----:::/+++/:--------------::://osshdmMMMMMMMMM
+..-----................--...................os::hsd:.-://:------.--::::::-----::///++syddmNMMMMMMMMM
+..-----................--..................../ydNNm+`....----------::////::::://++osyddddmNMMMMMMMMM
+..-----...............---...............-:/+shmMMMMy``.`````.....--://///////++osyhdddhhhmMMMMMMMMMM
+..-----...............-..........-/+sydmNMMMMMMMMMMM+---..---.--:/++oooossssyyhhddhhyyyyhmMMMMMMMMMM
+..------..............---..-/oydNMMMMMMMMMMMMMMMMMMMMdhhyssoooossyyyyyhhhhyyyyyyhyysssyhmMMMMMMMMMMM
+.--:----.............-:oydmNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMy///+sssooooooossssssoooosmMNMMMMMMMMMMM
+..--------.......-/osdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM+::::/oo++//++oossssooooohMNNNNmMMMMMMMM
+..-------......:yNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMN/:---:/+o+/++oooossooooosymNNMMdmMMMMMMM
+..-------....-sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoo::::::/+++oooooossoooossyhhdd:-oMMMMMMM
+.-----------+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/:ms/:::::/+++ooooooooooossyhhhy-:hMMMMMMM
+..---------/NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs.odo::::://++o+oooooooossyyhhy/:/hNMMMMMM
 
 This is a compiler implemented for the MJ language or mjlang, converts mjlang to python
 A file written in mjlang should end in .mj
