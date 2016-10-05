@@ -1,3 +1,4 @@
+```
 ---::::----.............---......-..........---/NNdho+/++smdddmNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 ---::::--..........````............``.`````:-.-:ds``....-o/--::/sysdNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 ----::--.....`.````````.....````.``````````:```.yo`````.:```````s.-+dMNMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
@@ -33,7 +34,7 @@
 ..-------....-sNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMyoo::::::/+++oooooossoooossyhhdd:-oMMMMMMM
 .-----------+dMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM/:ms/:::::/+++ooooooooooossyhhhy-:hMMMMMMM
 ..---------/NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMs.odo::::://++o+oooooooossyyhhy/:/hNMMMMMM
-
+```
 This is a compiler implemented for the MJ language or mjlang, converts mjlang to python
 A file written in mjlang should end in .mj
 It is a triubute, to the King of Pop, well if anything.
