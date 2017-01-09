@@ -50,3 +50,5 @@ Would love to hear from other MJ fans, whether this idea, is dumpshit, or can be
 Keep loving!! 
 
 To run your mjlang program, type in 'python mjcompiler.py yourprogram.mj' in your bash shells.
+
+Wish to improve it to the point wherein we can use the lyrics of MJ songs to write code. <3
